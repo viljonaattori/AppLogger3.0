@@ -1,0 +1,5 @@
+# Käännetyt tiedostot
+bin/
+obj/
+*.dll
+*.exe
